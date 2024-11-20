@@ -92,6 +92,6 @@ class SmartCalculator
 {
     public static void main(String A[])
     {
-        Calculator cobj = new Calculator(400,400,"Marvellous Calculator");
+        Calculator cobj = new Calculator(400,400,"Smart Calculator");
     }
 }
